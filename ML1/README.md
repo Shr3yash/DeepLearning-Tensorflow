@@ -1,1 +1,1 @@
-Implemented using *OCTAVE*
+Implemented using *GNU OCTAVE*
