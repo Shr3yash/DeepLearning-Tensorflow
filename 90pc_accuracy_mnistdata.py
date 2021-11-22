@@ -1,5 +1,6 @@
 """
-following script should train a TensorFlow model on the fashion MNIST 
+objecitve :  to train a model on fashoin mnist data set that prevails my previous accuracy of 88% on the test data 
+following script will train a TensorFlow model on the fashion MNIST 
 dataset to ~90% test accuracy.
 It'll save the model to the current directory using the ".h5" extension.
 """
