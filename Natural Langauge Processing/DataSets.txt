@@ -1,1 +1,2 @@
 imdb movie reviews dataset : https://ai.stanford.edu/~amaas/data/sentiment/
+not real tweets DS : https://storage.googleapis.com/ztm_tf_course/nlp_getting_started.zip
